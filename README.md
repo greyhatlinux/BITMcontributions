@@ -1,8 +1,10 @@
-# BITMcontributions :heart:
+# BITMcontributions :office:
 
 It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 This repo will take you from the very scratch to fianlly contributing to the open source.
 
+
+## Steps to follow :fast_forward:
 ### 0. Star The Repo :star2:
 
 Star the repo by pressing the topmost-right button to start your wonderful journey.
@@ -130,7 +132,7 @@ Then add a title and description to your pull request that explains your preciou
 
 
 
-## What to contribute
+## What to contribute :question:
 
 After making a branch with your username, checkout your branch.
 Create a file `<your_username>.md`.
