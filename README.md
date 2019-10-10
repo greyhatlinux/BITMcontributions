@@ -48,7 +48,7 @@ origin  https://github.com/Your_Username/BITMcontributions.git (fetch)
 origin  https://github.com/Your_Username/BITMcontributions.git (push)
 ```
 
-Now, lets add a reference to the original [HacktoberFest_19](https://github.com/greyhatlinux/HacktoberFest_19/) repository using
+Now, lets add a reference to the original BITMcontributions](https://github.com/greyhatlinux/BITMcontributions/) repository using
 
 ```sh
 $ git remote add upstream https://github.com/greyhatlinux/BITMcontributions.git
