@@ -8,7 +8,7 @@
 - Web Development
 - Software Engineering
 - Networking and Cyber Security
-- Embedded Systems
+
 
 ### Portfolio :
 [vishalgorai.cf](http://vishalgorai.cf)
