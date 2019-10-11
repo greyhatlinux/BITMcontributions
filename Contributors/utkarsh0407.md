@@ -1,8 +1,9 @@
-# Utkarsh Singh
+# Abhishek Raj
 
 ## Academics: 
-#### Pursuing B.Tech in Electronics and Communication Engineering
+#### Pursuing Imsc maths and computing
 #### Birla Institute of Technology, Mesra
+
 
 ### Interests : 
 - Core Electronics
