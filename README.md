@@ -99,7 +99,7 @@ Whenever you are going to make contribution. Please create seperate branch using
 
 ```sh
 # It will create a new branch with name Branch_Name and switch to branch Folder_Name
-$ git checkout -b Contributors
+$ git checkout -b contributor
 ```
 
 Create a seperate branch for contibution and try to use same name of branch as of folder.
@@ -124,7 +124,7 @@ Now, Push your awesome work to your remote repository using
 
 ```sh
 # To push your work to your remote repository
-$ git push -u origin Folder_Name
+$ git push -u origin contributor
 ```
 
 Finally, go to your repository in browser and click on `compare and pull requests`.
