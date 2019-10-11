@@ -9,4 +9,4 @@
 - Game Developement
 
 ### Portfolio :
-https://github.com/d0ppler12
+[Tanish Gupta](https://github.com/d0ppler12)
