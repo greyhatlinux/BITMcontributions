@@ -1,13 +1,11 @@
-# Utkarsh Singh
+# Mohit Jaiswal
 
 ## Academics: 
-#### Pursuing B.Tech in Electronics and Communication Engineering
+#### Pursuing IMSc Mathematics and Computing
 #### Birla Institute of Technology, Mesra
 
 ### Interests : 
-- Core Electronics
-- Cricket
-- Photography
+- Web Development
+- Software Engineering
+- Android Dev
 
-### Portfolio :
-[Utkarsh Singh](https://github.com/utkarsh0407)
